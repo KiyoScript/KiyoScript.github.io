@@ -1,0 +1,11 @@
+body {
+  height: 100vh !important;
+}
+body .taskbar {
+  width: 14.7rem !important;
+  border-radius: 0.6rem !important;
+  padding: 0.6rem !important;
+}
+body .taskbar .list-group-item {
+  border-radius: 0.3rem !important;
+}/*# sourceMappingURL=style.css.map */

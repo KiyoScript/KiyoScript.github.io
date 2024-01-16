@@ -1,0 +1,13 @@
+body {
+  height: 100vh !important;
+  .taskbar{
+    width: 14.7rem !important;
+    border-radius: .6rem !important;
+    padding: .6rem !important;
+
+    .list-group-item{
+      border-radius: .3rem !important;
+    }
+  }
+}
+
